@@ -1,0 +1,14 @@
+# Introdução {#intro}
+
+## Importância da fiscalização como ferramenta para o cumprimento da legislação e manutenção do sentimento de confiança do consumidor final no abastecimento e consumo de produtos de origem vegetal do Brasil
+
+Esta publicação irá tratar principalmente da fiscalização dos produtos hortícolas, conforme definição no Decreto da Classificação Vegetal.
+
+ **Produto hortícola:** produto oriundo da olericultura, da fruticultura, da silvicultura, da floricultura e da jardinocultura.
+
+Iremos detalhar a legislação e os procedimentos de fiscalização a serem adotados para a aplicação das seguintes normas:
+
+* Rastreabilidade, detalhes no Capítulo \@ref(rastr);
+* Requisitos mínimos, detalhes no Capítulo \@ref(req).
+
+Essa publicação foi elaborada em R **bookdown** [@xie2015].
