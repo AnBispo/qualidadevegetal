@@ -1,14 +1,72 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Introdução {#intro}
 
-## Importância da fiscalização como ferramenta para o cumprimento da legislação e manutenção do sentimento de confiança do consumidor final no abastecimento e consumo de produtos de origem vegetal do Brasil
+<style>
+body { text-align: justify}
+</style>
 
-Esta publicação irá tratar principalmente da fiscalização dos produtos hortícolas, conforme definição no Decreto da Classificação Vegetal.
 
- **Produto hortícola:** produto oriundo da olericultura, da fruticultura, da silvicultura, da floricultura e da jardinocultura.
+A fiscalização da qualidade dos produtos vegetais tem um papel relevante como ferramenta para o cumprimento da legislação e manutenção do sentimento de confiança do consumidor final no abastecimento e consumo de produtos de origem vegetal do Brasil.
 
-Iremos detalhar a legislação e os procedimentos de fiscalização a serem adotados para a aplicação das seguintes normas:
+Esta publicação detalha a legislação e os procedimentos de fiscalização a serem empregados quando da aplicação das seguintes normas:
 
-* Rastreabilidade, detalhes no Capítulo \@ref(rastr);
-* Requisitos mínimos, detalhes no Capítulo \@ref(req).
+* Rastreabilidade (Capítulo \@ref(rastr));
+* Requisitos mínimos (Capítulo \@ref(req)).
 
-Essa publicação foi elaborada em R **bookdown** [@xie2015].
+
+Esses dois temas, compartilham o mesmo objeto - produto hortícola, mas foram tratados em regulamentos distintos por questões de facilidade de sistematização e uma melhor abrangência da matéria a ser regulada, observadas as [boas práticas regulatórias](https://www.gov.br/agricultura/pt-br/mailing/documentos/sda_guiaboaspraticas_jul2019_anexo.pdf). 
+
+Do ponto de vista prático, como será detalhado mais adiante (Capítulo \@ref(locais)), o local de fiscalização recomendável para a fiscalização da rastreabilidade não contempla os pontos de venda final ao consumidor(p.ex., mercados, supermercados etc), foco da fiscalização dos requisitos mínimos.
+
+Em síntese esses regulamentos abordam:
+
+* O disciplinamento dos critérios e procedimentos que asseguram o resgate das informações relevantes relacionadas com a oferta dos produtos hortícolas destinados ao consumidor final, na forma da norma para a rastreabilidade desses produtos - Instrução Normativa Conjunta Anvisa e MAPA nº 02/2018 [@INC]; e
+
+* A definição de parâmetros qualitativos dos produtos hortícolas destinados ao consumidor final, na forma dos requisitos mínimos de identidade e qualidade desses produtos - Instrução Normativa nº 69/2018 [@REQ].
+
+
+## Escopo
+
+Esta publicação foi elaborada para a Defesa Agropecuária e visa facilitar o entendimeto das ações de fiscalização da rastreabilidade e dos requisitos mínimos da qualidade dos produtos hortícolas, conforme as definições e procedimentos das normas específicas relacionadas com essa temática e o disposto na Lei [@Lei] e no Decreto [@Decr] da Classificação Vegetal.
+
+Os temas abordados focam exclusivamente os **produtos hortícolas**, não sendo possível extrapolar as informações aqui detalhadas para outros produtos vegetais. Desse modo, não há qualquer relação e não é recomendável adotar as informações aqui tratadas aos grãos, fibras, farinhas e demais produtos vegetais abrangidos pela legislação da Classificação Vegetal.
+
+Sendo assim, o conceito de **Produto hortícola**, referenciado na presente publicação consta no Inciso XXIV, Art. 1º do Decreto nº 6.268/2007 [@Decr], da Classificação Vegetal, conforme transcrito a seguir:
+
+- *produto oriundo da olericultura, da fruticultura, da silvicultura, da floricultura e da jardinocultura*.
+
+A legislação aplicável pode ser acessada em Capítulo \@ref(Legis).
+
+
+## Agradecimentos e futuros desdobramentos
+
+Esta publicação não poderia ser elaborada sem o apoio e contribuição de Glauco Bertoldo, Diretor do Departamento de Inspeção de Produtos de Origem Vegetal (DIPOV/SDA/MAPA), Hugo Caruso, atual Coordenador-Geral da Qualidade Vegetal (CGQV/DIPOV) e Karina Fontes Coelho Leandro, Coordenadora de Regulamentação de Produtos de Origem Vegetal (CRPV/CGQV).
+
+Agradecemos a valiosa contribuição de Fátima Chieppe Parizzi, Coordenadora-Geral da Qualidade Vegetal à época da publicação das normas aqui explicadas e responsável pelo material que serviu de base para essa publicação - [Perguntas e Respostas Relacionadas à Fiscalização da Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/RESPOSTASDACGQVSPERGUNTASCEAGESPRELACIONADASFiscalizaodaINCN2_verso06_09_2019.pdf) e Memorando-Circular nº 9/2018/CGQV/DIPOV/MAPA/SDA/MAPA^[Para maiores informações, favor consultar o processo SEI nr 21000.026479/2018-11]. 
+
+Agradecemos a Anita de Souza Dias Gutierrez, Chefe da Seção do Centro de Qualidade Hortigranjeira (SECQH/CEAGESP) à época da publicação das normas aqui detalhadas e responsável pelas elaboração das [Perguntas e Respostas Relacionadas à Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/respostas-as-perguntas-ceagesp-relacionadas-a-inc-no-2.pdf), também utilizado como apoio a esta publicação.
+
+Agradecimentos especiais ao Gabriel Vicente Bitencourt de Almeida, Chefe da Seção do Centro de Qualidade Hortigranjeira - SECQH na Companhia de Entrepostos e Armazéns Gerais de São Paulo - CEAGESP, pela continuidade e aperfeiçoamento dado ao apoio de todo o trabalho para a melhoria da qualidade dos produtos hortícolas, no âmbito do Convênio SDA-MAPA/CEAGESP.
+
+Também agradecemos a Milza Moreira Lana, Engenheira-agrônoma, PhD em Fisiologia Pós-Colheita, pesquisadora Embrapa Hortaliças, Brasília, DF, que disponibilizou o conteúdo técnico-científico relacionado com o pós-colheita de hortaliças[@Milza]. 
+
+A publicação foi elaborada em R **bookdown** [@xie2015], e é um trabalho coletivo e dinâmico. Novas abordagens e situações serão incorporadas tão logo passem pela revisão e aprovação da área técnica do MAPA.
+
+A revisão do conteúdo foi executada com maestria por Fátima Chieppe Parizzi (Capítulos \@ref(intro) e \@ref(rastr)), Silvana Mendonça (SISV/DDA/SFA/PE) - (Capítulo \@ref(rastr)) e Milza Moreira Lana (Embrapa Hortaliças) - (Capítulo \@ref(pos)), que alinharam o conteúdo às práticas correntes e estado da arte dessa temática.
+
+
+## Importância da fiscalização 
+
+Essa publicação defende o princípio de que a fiscalização da rastreabilidade e dos requisitos mínimos dos produtos hortícolas como sendo uma ação governamental que busca assegurar que a qualidade e as informações sobre o sistema de cultivo adotado pelo produtor não sejam perdidas ao longo das cadeias de distribuição e comercialização desses produtos.
+
+Observada a principal motivação para a regulamentação da rastreabilidade dos produtos hortícolas - o monitoramento do uso de agrotóxicos, temos que a norma publicada objetivou *salvaguardar as informações sobre a aplicação ou não desses produtos na etapa de produção dos produtos hortícolas* (Art. 1º, INC nº 02/2018).
+
+Assim sendo, quanto mais abrangente for a adoção da rastreabilidade, melhor será a resposta dos sistemas de controle e monitoramento, para permitir ações rápidas e pontuais sobre as fontes identificadas das irregularidades, mitigando a difusão de informações falsas e alarmistas, cujo impacto negativo pode afetar de maneira devastadora todo o setor hortícola.
+
+No que concerne à regulamentação dos requisitos mínimos dos produtos hortícolas, cabe considerar que a referida norma objetivou garantir o fornecimento ao consumidor final de produtos de qualidade, os quais devem se apresentar íntegros, limpos, firmes, isentos de pragas visíveis a olho nu, fisiologicamente desenvolvidos ou apresentando maturidade comercial, isentos de odores estranhos, não excessivamente maduros ou passados, isentos de danos profundos, isentos de podridões, não desidratados ou murchos, não congelados e isentos de distúrbios fisiológicos (Art. 5º. IN nº 69/2018).
+
+Assim sendo, quanto maior for a adoção dos requisitos mínimos da qualidade, maior será a aceitação e fluxo dos consumidores para a aquisição desses produtos tão relevantes para uma [dieta saudável e de qualidade](https://eatforum.org/eat-lancet-commission/).
