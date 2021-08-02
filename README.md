@@ -1,4 +1,6 @@
-Trabalho em curso e com previsão de conclusão em maio de 2021 de publicação para auxiliar a fiscalização dos produtos hortícolas .
+Trabalho finalizado em dezembro de 2020, sendo que a última atualização ocorreu em 02 de agosto de 2021.
+
+Essa Publicação busca auxiliar a adoção e a fiscalização da rastreabilidade e dos requisitos mínimos dos produtos hortícolas .
 
 Publicação adota o formato de livro com base no R Markdown e **bookdown** 
 
