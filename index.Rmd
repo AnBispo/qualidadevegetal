@@ -1,30 +1,65 @@
 --- 
-title: "Produtos Hortícolas: Rastreabilidade e Requisitos Mínimos"
-author: "Edição: André Luiz B. Oliveira - Autores:"
-date: "`r Sys.Date()`"
+title: "Produtos Hortícolas"
+author: 'Autoria e Coordenação: André Luiz B. Oliveira'
+date: 'Co-Autoria: Fátima Chieppe Parizzi (Capítulos 2 e 3), Silvana Mendonça (Capítulo
+  3) e Milza Moreira Lana (Capítulo 4) - 02.08.2021, Direitos reservados'
+subtitle: Rastreabilidade e Requisitos Mínimos
+pdf-cover-image: Macas.pdf
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+lang: pt
+geometry: margin=2.5cm
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "Legislação explicada para cumprimento e fiscalização da legislação."
+description: Legislação explicada para cumprimento e fiscalização da legislação.
 ---
 
-# Legislação Aplicável
+
+[<img style="float: right;" src="Macas.jpg">](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico)
 
 
 
-Rastreabilidade - A INC nº 02/2018 estabelece os procedimentos para a aplicação da rastreabilidade ao longo da cadeia produtiva de produtos vegetais frescos destinados à alimentação humana, [@INC].
 
-Requisitos Mínimos dos produtos hortícolas - A IN nº 69/2018 estabelece o Regulamento Técnico definindo os requisitos mínimos de identidade e qualidade para Produtos Hortícolas, [@REQ]. Essa norma é assistida pelo [Referencial fotográfico que ilustra os requisitos mínimos](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico), um conjunto de imagens que facilitam a identificação dos defeitos e condições das frutas, legumes e verduras não conformes com a IN nº 69/2018 e que devem ser removidos do mercado.
+# Legislação Aplicável {#Legis}
 
-Fiscalização dos requisitos mínimos dos produtos hortícolas - A IN nº 07/2019 estabelece os procedimentos simplificados para a fiscalização de produtos hortícolas, [@FiscREQ].
 
-Fundamentação legal - Lei e Decreto que instituem a classificação de produtos vegetais, subprodutos e resíduos de valor econômico, [@Lei], [@Decr].
+
+<style>
+body { text-align: justify}
+</style>
+
+**Informação Relevante:** Esta publicação encontra-se acessível, em pdf e sem custos, acessando o [link: Rastreabilidade e Requisitos mínimos](https://www.researchgate.net/publication/346956022_Produtos_Horticolas_Rastreabilidade_e_Requisitos_Minimos).
+
+
+**Rastreabilidade** - A INC nº 02/2018 estabelece os procedimentos para a aplicação da rastreabilidade ao longo da cadeia produtiva de produtos vegetais frescos destinados à alimentação humana, [@INC]. A mesma foi alterada pela INC nº 01/2019, [@INC1]. 
+
+
+**Requisitos Mínimos dos produtos hortícolas** - A IN nº 69/2018 estabelece o Regulamento Técnico definindo os requisitos mínimos de identidade e qualidade para Produtos Hortícolas, [@REQ]. Essa norma é assistida pelo [Referencial fotográfico que ilustra os requisitos mínimos](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico), um conjunto de imagens que facilitam a identificação dos defeitos e condições das frutas, legumes e verduras não conformes com a IN nº 69/2018.
+
+Essas situações de não conformidade ilustradas no [Referencial fotográfico](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico) são situações extremas, dos produtos que devem ser removidos do mercado por meio das ações de fiscalização.
+
+**Fiscalização dos requisitos mínimos dos produtos hortícolas** - A IN nº 07/2019 estabelece os procedimentos simplificados para a fiscalização de produtos hortícolas, [@FiscREQ].
+
+**Registro obrigatório dos envolvidos no processo de classificação** - A IN nº 09/2019 estabelece as condições de obrigatoriedade e os procedimentos a serem adotados pelos agentes que devem estar registrados junto ao Cadastro Geral de Classificação do MAPA (CGC), [@Registro].
+
+
+**Fundamentação legal** - Lei nº 9.972/2000 [@Lei] e Decreto nº 6.268/2007 [@Decr], que instituem e disciplinam a classificação de produtos vegetais, subprodutos e resíduos de valor econômico. Lei nº 8.171/1991 [@LeiAgr], sobre a Política Agrícola, que dispõe sobre a Defesa Agropecuária.
+
+```{r, out.width='45%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('Macas.jpg'))
+```
+
 
 ```{r eval=FALSE, include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
+), 'book.bib', 'packages.bib')
+
+r if (knitr:::is_html_output()) '# Bibliografia {-}'
+
 ```
+
