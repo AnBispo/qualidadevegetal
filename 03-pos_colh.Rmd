@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Noções básicas de fisiologia pós colheita de produtos hortícolas {#pos}
 
 <style>
@@ -8,19 +13,26 @@ body { text-align: justify}
 
 O parágrafo introdutório da publicação "**Fisiologia e Manuseio Pós-Colheita de Pimentão**" destaca que: - *O correto manuseio durante e após a colheita é importante para garantir a qualidade sensorial, nutricional e microbiológica dos alimentos assim como para reduzir as perdas. As perdas pós-colheita impactam a sustentabilidade dos sistemas agroalimentares nas três dimensões: econômica, social e ambiental. Elas reduzem a disponibilidade e aumentam o preço dos alimentos comprometendo a segurança alimentar. Elas também têm um grande impacto sobre o meio ambiente seja pelo uso em vão de recursos naturais escassos para produzir alimentos que são descartados, seja pela geração de lixo que é enviado para lixões e aterros sanitários* (HIGH LEVEL PANEL OF EXPERTS ON FOOD SECURITY AND NUTRITION,2014 *apud* [@Milza]).
 
-Esta publicação concorda com essa abordagem, dando destaque e reproduzindo o texto da autora. Inclusive, os princípios por ela destadados e defendidos integraram os estudos para a elaboração da legislação sobre os requisitos mínimos dos produtos hortícolas, tratado no Capítulo \@ref(req).
+Esta publicação concorda com essa abordagem, dando destaque e reproduzindo o texto da autora. Inclusive, os princípios por ela destacados e defendidos integraram os estudos para a elaboração da legislação sobre os requisitos mínimos dos produtos hortícolas, tratado no Capítulo \@ref(req).
 
-Por possuírem características intrínsecas muito particulares, e devido a norma dos requisitos mínimos focar os aspectos que devem ser controlados para impedir a oferta de produtos não conformes ao consumidor final, destacamos a abordagem sugerida pela autora que reforça essa visão, na sequência de capítulos abaixo.
+Por possuírem características intrínsecas muito particulares, e devido a norma dos requisitos mínimos focar os aspectos que devem ser controlados para impedir a oferta de produtos não conformes ao consumidor final, destacamos a abordagem sugerida pela autora que reforça essa visão, na sequência abaixo.
 
 ## Aspectos gerais e objetivos
 
-Este capítulo reforça os principais fatores da fisiologia dos produtos hortícolas que impactam de forma negativa e em caráter irreversível a sua qualidade final, impedindo a oferta desses produtos ao consumidor final.
+Os principais fatores da fisiologia dos produtos hortícolas que impactam de forma negativa e em caráter irreversível a sua qualidade final impedem a oferta desses produtos ao consumidor final.
 
 Esses fatores têm base na ciência da fisiologia da pós colheita desses produtos e devem ser o foco de qualquer ação fiscal que busque garantir a oferta de produtos hortícolas de qualidade ao consumidor final.
 
 Apresentada na publicação da Embrapa [@Milza], a palavra **estragar**, em - "*o fruto estraga depois de colhido*", ilustra um dos alvos deste Capítulo que busca estabelecer os critérios básicos que identificam de forma clara e simples, mas com base científica sólida, os aspectos dos produtos hortícolas que impedem a sua comercialização.
 
-O desenvolvimento de um produto hortícola caracteriza-se pelo seu crescimento na lavoura, maturação (incluída a maturidade fisiológica), amadurecimento e senescência [@WATADA]^[Explicado em: https://edisciplinas.usp.br/pluginfile.php/1913455/mod_resource/content/0/Aula%2024.08.2016%20%28grad%29%20%20-%20Desenvolvimento%20e%20Fisiologia.pdf]. 
+O desenvolvimento de um produto hortícola caracteriza-se pelo seu crescimento na lavoura, maturação (incluída a maturidade fisiológica e a hoticultural), amadurecimento e senescência [@WATADA]^[A referência teórica relacionada com o desenvolvimento fisiológico dos produtos hortícolas encontra-se detalhada no trabalho de WATADA et al. 1984, responsável pela primeira compilação não ambígua da literatura sobre o tema. Segundo o autor, o desenvolvimento de um produto hortícola é caracterizado pelo seu crescimento na lavoura, seguido da maturação (incluída a maturidade fisiológica), amadurecimento e senescência, com as definições a seguir:
+**Desenvolvimento:** a série de eventos desde o início do crescimento de um fruto até a morte do mesmo.
+**Crescimento:** o aumento irreversível de atributos físicos de um fruto em desenvolvimento.
+**Maturação:** o estádio do desenvolvimento que leva à maturidade fisiológica ou horticultural.
+**Maturidade fisiológica:** o estádio a partir do qual o fruto continuará seu desenvolvimento mesmo que separado da planta.
+**Amadurecimento:** a série processos que ocorrem no final do desenvolvimento, e que resultam em características estéticas e de qualidade, evidenciadas por mudanças na composição, coloração, textura, sabor e aroma.
+**Senescência:** a série processos que ocorrem após a maturidade fisiológica ou horticultural e levam à morte dos tecidos.
+Maiores informações em: https://edisciplinas.usp.br/pluginfile.php/1913455/mod_resource/content/0/Aula%2024.08.2016%20%28grad%29%20%20-%20Desenvolvimento%20e%20Fisiologia.pdf]. 
 
 Interessa para a fiscalização identificar os aspectos que levam de forma irreversível à senescência, estádio posterior ao amadurecimento que se caracteriza pela prevalência dos processos de morte e degradação dos tecidos celulares dos produtos hortícolas. Importa menos para a fiscalização a identificação precisa da origem da senescência, sendo mais relevante e decisivo evidenciar o caráter irreversível de **produto estragado** para o consumidor final -> objeto da ação fiscal. 
 
@@ -29,12 +41,44 @@ Interessa para a fiscalização identificar os aspectos que levam de forma irrev
 
 ## Processos pós-colheita que levam à deterioração
 
-Os principais aspectos da fisiologia pós-colheita dos produtos hortícolas que são irreversíveis, ou seja, **conduzirão o produto à senescência sem atingir a maturação**, e que devem ser considerados pelo responsável pelo produto hortícola, também devem ser o foco da fiscalização.
+A legislação sobre os requisitos mínimos tem relação direta com os aspectos da pós-colheita dos produtos hortícolas.
 
-O produto nessas condições de irreversibilidade não se presta para a sua finalidade proposta, já que será considerado *estragado* pelo consumidor final antes ou, pior, após a aquisição.
+Por se tratarem de estruturas vivas, muitas das quais passíveis de serem utilizadas como meios de propagação e multiplicação, a maioria das alterações que ocorrem após a colheita dos produtos hortícolas são irreversíveis, ou seja, **conduzirão o produto à senescência sem atingir a maturação horticultural**.
 
-Assim sendo, produtos não climatéricos (Tabela 4.1) colhidos imaturos não se prestam para o consumo, já que atingirão a senescência sem alcançar a maturação. 
+Nesse sentido, os aspectos da fisiologia pós-colheita dos produtos hortícolas são fatores que condicionam a apresentação e qualidade desses produtos, devendo ser considerados pelo responsável pelo produto hortícola e, também, estar no foco da fiscalização.
 
+### Noções básicas
+
+Devido às condições de irreversibilidade dos processos envolvidos, o produto colhido antes de alcançar a maturação horticultural atinge a senescência sem se prestar para a sua finalidade proposta. Do ponto de vista prático, esse produto hortícola colhido antes ou após o estadio de desenvolvimento adequado será considerado *estragado* pelo consumidor final antes ou, pior, após a sua aquisição.
+
+Do ponto de vista dos aspectos da pós-colheita dos produtos hortícolas e a sua relação com os processos que levam esses produtos a se *estragarem*:
+
+a) Com relação ao desenvolvimento fisiológico - os produtos hortícolas possuem características intrínsecas e extrínsecas muito particulares. Essas características, como a coloração, textura, doçura etc. são variáveis ao longo do desenvolvimento do fruto, ou seja, mudam conforme a maturidade horticultural dos mesmos.
+
+```{r MatHort, out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('MatHort.jpg'))
+```
+
+A maturidade horticultural é específica de cada produto, podendo se inserir em um dos vários estádios de desenvolvimento de um determinado produto hortícola, (Figura \@ref(fig:MatHort2)).
+
+```{r MatHort2, fig.cap='Fases do desenvolvimento de frutos e a maturidade horticultural (adaptado de Watada et al).', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('MatHort2.jpg'))
+```
+
+
+No exemplo da Figura \@ref(fig:MatHort2) temos que a maturidade horticultural da Couve-flor está inserida no estádio de desenvolvimento denominado **Crescimento**.
+
+Já para o Tomate (Figura \@ref(fig:MatHort2)) a maturidade horticultural está localizada no estádio denominado **Amadurecimento**.
+
+A terminologia "**maturidade horticultural**" portanto foi concebida para ser ampla, de forma a abranger todas as situações dos produtos hortícolas e a qualidade desejada para os mesmos, do ponto de vista da produção agrícola e da comercialização.
+
+b) Com relação à respiração e produção de etileno pelos produtos hortícolas – produtos hortícolas podem ser afetados pelo padrão ou comportamento climatério [@KADER]. Por exemplo, para determinados frutos a maturação pode ocorrer tanto na planta, quanto fora dela (fruto colhido).
+
+*	Frutos climatéricos são os produtos hortícolas cujas transformações bioquímicas levam ao amadurecimento com o fruto na planta ou após a colheita.
+
+*	Frutos não climatéricos são os produtos hortícolas desprovidos de metabolismo que possa promover o amadurecimento do fruto após a colheita.
+
+**Do ponto de vista da fiscalização, os produtos não climatéricos (Tabela 4.1) colhidos imaturos não se prestam para o consumo, já que atingirão a senescência sem alcançar a maturação.**
 
 
 ```{r, include=FALSE, echo = FALSE}
@@ -66,13 +110,30 @@ Adaptado de [@UNECE] e [@CALBO]
 
 A avaliação dos sólidos solúveis totais, expresso em ºBrix é capaz de determinar se um produto hortícola não climatérico foi colocado no comércio sem ter atingido o seu grau de maturação mínimo. Os valores preconizados desse parâmetro podem ser consultados no [Referencial fotográfico de determinados produtos hortícolas](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico).
 
-Outros aspectos relacionados por [@Milza], que aceleram a senescência e que podem ser considerados como fatores que caracterizam a irreversibilidade do processo de deterioração são:
+c) com relação à elevada perecibilidade dos produtos hortícolas - existem fatores do ambiente que devem ser monitorados ou controlados, pois aceleram a senescência e podem promover a irreversibilidade do processo de deterioração [@Milza]:
 
 * o ataque dos produtos por doenças bacterianas ou fúngicas, causadoras de podridrões; e
 
 * os danos físicos, causadores de ferimentos que tanto aceleram a perda de água, quanto a respiração dos produtos hortícolas, acelerando o amadurecimento e,
 consequentemente, reduzindo a vida útil dos produtos.
 
-Também podemos relacionar nessa lista os danos por calor ou a exposição excessiva ao sol, além da injúria por frio, mas somente quando esses danos também  causarem ou forem associados a outros fatores de deterioração dos produtos como a perda de água, ferimentos, murcha excessiva, ruptura da casca etc, já que esses danos são de percepção variável conforme o produto. 
+**Do ponto de vista da fiscalização, os produtos afetados por pragas, doenças e danos mecânicos, quando acima dos limites propostos, não se prestam para o consumo, já que atingirão a deterioração, inclusive podendo atingir todo o lote através da contaminação.**
+
+d) outros fatores – também podem ser relacionados com os aspectos da pós-colheita dos produtos hortícolas os danos por calor ou a exposição excessiva ao sol, além da injúria por frio, mas somente quando esses danos também causarem ou forem associados a outros fatores de deterioração dos produtos como a perda de água, ferimentos, murcha excessiva, ruptura da casca etc. Esses danos são de percepção variável conforme o produto.
+
 
 Sobre esse aspecto, [@UNECE] relacionou uma extensa lista de produtos hortícolas com base em sua sensibilidade às injúrias pelo frio excessivo, também identificando as temperaturas ideais para o armazenamento desses produtos.
+
+**Do ponto de vista da fiscalização, os produtos afetados por calor, insolação, frio e outros fatores ambientais severos, quando acima dos limites propostos, não se prestam para o consumo, já que atingirão a deterioração dos produtos, mesmo que atingida a maturação.**
+
+Como conclusão geral os principais aspectos da pós-colheita dos produtos hortícolas são de grande relevância para a fiscalização. É importante ressaltar que eles têm caráter irreversível, ou seja, a inobservância desses fatores ao longo da cadeia de produção, distribuição e comercialização conduzirão o produto à senescência ou degradação.
+
+O produto hortícola nessas condições de irreversibilidade não se presta para a sua finalidade proposta, já que será considerado estragado pelo consumidor final antes ou, pior, após a aquisição.
+
+Desse modo, como conclusão final, cabe o reforço de que o produto hortícola é um organismo vivo, cujas interações com o ambiente podem ser aceleradas após a colheita. Assim sendo, os aspectos da pós-colheita devem ser considerados pelo responsável pelo produto hortícola e, também, devem ser o foco da fiscalização:
+
+*	Interessa para a fiscalização identificar os aspectos que levam o produto de forma irreversível à senescência, estádio posterior ao amadurecimento que se caracteriza pela prevalência dos processos de morte e degradação dos tecidos celulares dos produtos hortícolas. 
+
+* Também interessa para a fiscalização os agentes e situações que promovem a deterioração dos produtos hortícolas.
+
+*	Importa menos para a fiscalização a identificação precisa da origem da senescência ou dos agentes que promovem a degradação, sendo mais relevante e decisivo evidenciar o caráter irreversível de produto estragado para o consumidor final -> objeto da ação fiscal.
