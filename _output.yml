@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Ministério da Agricultura, Pecuária e Abastecimento</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Edição 2020, com o Bookdown</a></li>
+        <li><a href="https://github.com/AnBispo/qualidadevegetal" target="blank">Edição 2021, Versão: 3ª (agosto de 2021), ISBN: 978-65-00-14388-1, direitos reservados</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
