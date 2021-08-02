@@ -1,16 +1,377 @@
-# Procedimentos de fiscalização e amostragem dos produtos hortícolas para avaliação da conformidade aos requisitos mínimos {#req}
+---
+output:
+  word_document: default
+  html_document: default
+---
+# Fiscalização dos requisitos mínimos {#req}
 
-## Amostragem para a fiscalização dos requisitos mínimos dos produtos hortícolas
-Autor
-Texto
+<style>
+body { text-align: justify}
+</style>
+O foco adotado para a legislação dos requisitos mínimos é não permitir a oferta de produtos "*estragados*" (vide Capítulo \@ref(pos)) ao consumidor final, posto que os produtos hortícolas têm papel relevante e de destaque para a sociedade. 
+
+A Instrução Normativa nº 69/2018 [@REQ], dos **Requisitos Mínimos dos produtos hortícolas** aborda especificamente essa irregularidade ao listar os aspectos da qualidade dos produtos hortícolas que devem ser controlados pela cadeia de produção, distribuição e comercialização desses produtos, criando uma fronteira que limita o acesso ao mercado somente para os produtos em conformidade.
+
+Estimulado pela ação fiscal, realizada em conformidade com os procedimentos simplificados estabelecidos na Instrução Normativa nº 07/2019 [@FiscREQ], a manutenção e o controle dessa fronteira impedem a oferta de produtos hortícolas irregulares em relação à norma ("*estragados*") ao consumidor final.
+
+
+## Histórico e contexto global da legislação dos requisitos mínimos
+
+Do ponto de vista do consumidor, os produtos hortícolas são consumidos preferencial e  prioritariamente frescos, devendo apresentar importante apelo visual.
+
+A padronização de frutas e hortaliças é considerada um instrumento que dinamiza e congrega os atores de uma determinada cadeia produtiva em uma arena regulatória comum, benéfica para todos, [@MACHADO1], [@MACHADO2], [@PAULILLO].
+
+ <img style="float: right;" src="MercMX.jpg">
+
+
+
+Padronização refere-se a uma forma particular de reunir, filtrar e acumular informação acerca de produtos, podendo ser representado por especificações técnicas e adotado de forma voluntária, tácita, formal ou autoritária, [@MACHADO2]. 
+
+Sem aprofundar nos vários aspectos da padronização dos produtos vegetais, já tratados com maestria por vários autores e publicações [@MACHADO1], [@WB], somente essas duas características ou condições desejáveis de frescor e da manutenção do apelo visual dos produtos hortícolas, definidos pelo consumidor, evidenciam a grande relação existente entre a preferência pessoal desse público e a escolha final para a aquisição desses produtos. 
+
+Também explicitam a complexidade do tema. Esses dois aspectos foram os principais limitantes para o estabelecimento de uma legislação consistente que pudesse aferir a qualidade desses produtos em nível nacional.
+<img style="float: left;" src="hortRefr.jpg">
+
+Historicamente, os vários aspectos da legislação da classificação vegetal para os produtos hortícolas limitavam a efetividades das ações e impactavam negativamente a reputação do sistema de padronização desses produtos no Brasil. Antes da publicação dos Requisitos Mínimos dos Produtos Hortícolas:
+
+* Havia vários padrões estabelecidos para frutas e hortaliças (ABACAXI,  ALHO, BANANA, BATATA, CEBOLA, KIWI, MAÇÃ, MAMÃO, PÊRA, TOMATE, UVA FINA DE MESA e UVA RÚSTICA). Mais da metade eram portarias da década de 90; outros 3 padrões eram IN SARC do início dos anos 2000; grande parte, ou a totalidade desses Padrões muitas vezes não se adequavam mais à realidade do mercado;
+
+* A exequibilidade da fiscalização no mercado interno era precária pela falta de rito próprio adequado à realidade dos produtos hortícolas. O modelo de fiscalização da Classificação Vegetal foi concebido para grãos, havia necessidade de rever até mesmo as punições, consideradas muito pesadas para grande parte do setor;
+
+* Havia uma série de produtos não cobertos por padrões oficiais de classificação e que não estavam afetos a qualquer controle ou fiscalização por parte do MAPA; e
+
+* Os procedimentos de amostragem previstos eram complexos, diferentes para cada produto e portando de difícil execução para a realidade do setor produtivo e da fiscalização. 
+
+Por muitos anos o Brasil dispôs desse limitado número de Padrões Oficiais de Classificação para a aferição da qualidade dos produtos hortícolas citados anteriormente. Muitos destes padrões eram de aplicação complexa, já que:
+
+* dispunham de muitos parâmetros para aferir a qualidade intrínseca e extrínseca dos produtos;
+
+* necessitavam de um classificador habilitado para realizar a aferição da qualidade;
+
+* necessitavam de um local físico devidamente estruturado para a aferição da qualidade, em conformidade com outras normas e procedimentos estabelecidos pela legislação da Classificação Vegetal; e
+
+* deviam seguir regras e procedimentos muito bem estabelecidos e eficientes, mas originalmente concebidos para grãos e demais "commodities", pouco aplicáveis para a situação dos produtos hortícolas.
+
+Por esse conjunto de motivos houve um esforço do MAPA, por meio de projeto com a União Europeia^[http://www.sectordialogues.org/publication/brazilian-agriculture-and-cattle-raising-inspectors-learn-about-fruit-and-vegetable-control-systems-in-europe], para a realização de estudos e motivação da fiscalização, que culminaram com a publicação da Instrução Normativa nº 69/2018 [@REQ], dos **Requisitos Mínimos dos produtos hortícolas** .
 
 ## Fiscalização dos requisitos mínimos dos produtos hortícolas à luz da instrução normativa nº 7, de 13 de maio de 2019 - Estabelece os procedimentos simplificados para a fiscalização de produtos hortícolas
-Autor
-Texto
 
-## Utilização do Referencial fotográfico dos produtos hortícolas durante a fiscalização
-Autor
-Texto
-[Link à página do MAPA com o referencial fotográfico dos produtos hortícolas](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico)
+Do ponto de vista operacional, a fiscalização dos requisitos mínimos é um procedimento direto e simplificado, orientado para a resolução imediata das irregularidades constatadas.
+
+O art. 1º da IN nº 69/2018 atribui o caráter de padrão aos requisitos mínimos de identidade e qualidade para Produtos Hortícolas^[Art. 1º, IN nº 69/2018 - Estabelecer o Regulamento Técnico definindo os requisitos mínimos de identidade e qualidade para Produtos Hortícolas.], sendo que o atendimento aos mesmos é de responsabilidade do detentor do produto (art. 2º da IN nº 69/2018)^[Art. 2º, IN nº 69/2018 - O atendimento aos requisitos mínimos de identidade e qualidade estabelecidos na presente Instrução Normativa é de responsabilidade do detentor do produto.], [@REQ].
+
+O parágrafo único, art. 2º, IN nº 69/2018 define que a verificação da conformidade executada pelo órgão de fiscalização será preferencialmente realizada no local da amostragem^[Parágrafo único, art. 2º, IN nº 69/2018 - A verificação da conformidade executada pelo órgão de fiscalização será preferencialmente realizada no local da amostragem.].
+
+Na prática, a ação da fiscalização terá de verificar o local onde há produtos hortícolas, procedendo a uma inspeção visual direta para identificar os possíveis pontos de interesse, ou seja, **localizar** onde há produtos hortícolas com potencial evidência de **irregularidade**.
+
+```{r NC1, fig.cap='Irregularidade potencial.', out.width='80%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('tomates.jpg'))
+knitr::include_graphics(rep('chuchuDE.jpg'))
+```
+
+Nesses casos, fundamentada na IN nº 07/2019 [@FiscREQ] e IN nº 69/2018 [@REQ], a fiscalização deve verificar os requisitos mínimos de qualidade, observadas as especificidades da espécie, variedade ou cultivar (art. 3º, IN nº 07/2019)[^11]
+
+[^11]: Art. 3º, IN nº 07/2019 - Para fins de aplicação dos procedimentos simplificados para fiscalização de produtos hortícolas, serão verificados, no que couber, os seguintes requisitos mínimos de qualidade, observadas as especificidades da espécie, variedade ou cultivar: 
+  I - inteiros;
+  II - limpos;
+  III - firmes;
+  IV - isentos de pragas visíveis a olho nu;
+  V - fisiologicamente desenvolvidos ou apresentando maturidade comercial;
+  VI - isentos de odores estranhos;
+  VII - não se apresentarem excessivamente maduros ou passados;
+  VIII - isentos de danos profundos;
+  IX - isentos de podridões;
+  X - não se apresentarem desidratados ou murchos;
+  XI - não se apresentarem congelados; e
+  XII - isentos de distúrbios fisiológicos.]: 
+
+### Fiscalização preliminar
+
+A fiscalização preliminar se dá em conformidade com o art. 4º da IN nº 07/2019, seguida da demarcação do lote fiscalizado (Art. 5º, IN nº 07/2019) e da verificação de podridões no lote fiscalizado (§ 1º, art. 3º, IN nº 07/2019), nessa ordem, conforme detalhamento a seguir: 
+
+#### Verificação dos requisitos complementares
+
+  * primeiramente, deve-se verificar o atendimento pelo detentor dos requisitos complementares descritos na norma (art. 4º, IN nº 07/2019)^[Art. 4º, IN nº 07/2019        - A autoridade fiscalizadora, de maneira complementar, deverá verificar o atendimento pelo detentor dos requisitos descritos a seguir:
+        I - a marcação ou rotulagem adequada do produto hortícola, conforme estabelecida em regulamentos específicos;
+        II - a adequação das condições de conservação, quanto à preservação das características de identidade e qualidade do produto;
+        III - o armazenamento e a exposição adequados, isolados de resíduos ou substâncias que possam comprometer a segurança do produto hortícola; e
+        IV - as condições adequadas de limpeza e higienização dos contentores, gôndolas ou outras formas de armazenamento e exposição do produto.](Figura \@ref(fig:NC7a));
+
+```{r NC7a, fig.cap='Situações de irregularidades ao art. 3º ou 4º da IN nº 07/2019.', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('NC7a.png'))
+```
+
+#### Demarcação do lote
+
+  * na sequência, deve demarcar o lote (art. 5º, IN nº 07/2019)^[Art. 5º, IN nº 07/2019 - A verificação da conformidade do produto hortícola será realizada na totalidade do lote ou em quantidade suficiente para a avaliação, à critério da autoridade fiscalizadora.]; e
+  
+#### Verificação de podridões no lote do produto fiscalizado
+
+  * por fim, a fiscalização deverá identificar se há podridões nesse lote de produto e se a mesma ultrapassa o limite de 3% (§ 1º, art. 3º, IN nº 07/2019)^[§ 1º, art. 3º, IN nº 07/2019 - É admitida em cada lote uma tolerância de até a 3% (três por cento) de unidades do produto, em número ou peso, que apresentem podridões.].
+
+### Fiscalização dos requisitos mínimos
+
+A fiscalização preliminar facilita e direciona a fiscalização dos requisitos mínimos, já que favorece a visão do agente de fiscalização sobre as condições gerais dos produtos hortícolas presentes no local de fiscalização.
+
+Terminada a fiscalização preliminar, a fiscalização dos requisitos mínimos pode ser realizada após o atendimento pleno das irregularidades eventualmente apontadas durante a fiscalização preliminar ou em conjunto com a avaliação preliminar, sendo que essa decisão deve ser avaliada para cada situação, já que:
+
+  1. nos casos de lotes com podridões e outras irregularidades sanáveis (ex., podridões **pouco** acima do limite de 3%) a verificação dos requisitos mínimos após o **repasse** no lote fiscalizado poderá gerar confusão no caso de pouca interlocução com o fiscalizado; e
+Nos casos de lotes com podridões e outras irregularidades sanáveis (ex., podridões pouco acima do limite de 3%) a verificação dos requisitos mínimos após o repasse no lote fiscalizado poderá gerar confusão no caso de pouca ou difícil interlocução com o fiscalizado; e
+
+  2. nos casos de lotes com podridões e outras irregularidades não sanáveis (ex., podridões **muito** acima do limite de 3%) a verificação dos requisitos mínimos será de pouco ou nenhum valor ou impraticável.
+
+A decisão final em relação à melhor prática deve ser exercitada caso a caso, conforme a experiência do agente responsável pela fiscalização e situação.
+
+A fiscalização dos requisitos mínimos se dá pela verificação das condições gerais do produto em relação aos atributos de qualidade listados, tendo sempre em mente as especificidades da espécie, variedade ou cultivar, em conformidade com o art. 3º da IN nº 07/2019 e o disposto na IN nº 69/2018 (Figura \@ref(fig:NC7b)).
+
+```{r NC7b, fig.cap='Situações de obrigatoriedades do art. 3º da IN nº 07/2019.', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('NC7b.png'))
+```
+
+Para facilitar a fiscalização dos requisitos mínimos foi elaborado o **Referencial fotográfico dos produtos hortícolas**. Recomenda-se a adoção do mesmo (quando existente para o produto) durante a fiscalização.
+
+  * Como os requisitos mínimos foram elaborados sob a ótica de uma abordagem horizontal e o foco em impedir a oferta de produtos *estragados*, a verificação de irregularidades pode e **deve ser exercida mesmo para produtos sem referencial fotográfico**.
+  
+  * Nesse sentido, a fiscalização deve ser agente para a elaboração de imagens para produtos considerados essenciais, orientando e priorizando o fluxo desse trabalho de aperfeiçoamento das fotografias e imagens apresentadas para os produtos hortícolas.
+
+[Link à página do MAPA com o referencial fotográfico dos produtos hortícolas](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/referencial-fotografico/referencial-fotografico).
+
+Como todo material fotográfico do Referencial do MAPA é obtido junto a Companhia de Entrepostos e Armazéns Gerais de São Paulo - CEAGESP, [acessando o link da página da CEAGESP há maior quantitativo de Referenciais Fotográficos disponíveis](http://www.ceagesp.gov.br/entrepostos/servicos-entrepostagem/referencial-fotografico-para-os-produtos-horticolas/).
+
+Vale destacar que **as fotografias dos referenciais fotográficos são as mesmas**. Fruto da parceria entre o MAPA e a CEAGESP, o Referencial Fotográfico somente se encontra duplicado em duas bases para facilitar o alcance e a adoção por todos os elos da cadeia de produtos hortícolas.
+
+Na página do MAPA com o referencial fotográfico dos produtos há um link para a disponibilização de fotografias e imagens para o aperfeiçoamento dos requisitos mínimos. A mesma também pode ser utilizada para o pedido de referencial fotográfico para outros produtos hortícolas.
+
+### Demais itens passíveis de fiscalização
+
+Em adição à fiscalização dos requisitos mínimos, estão abrangidos pela IN nº 69/2018 e podem ser verificadas: as exigências para a rotulagem de produto embalado (art. 18 e 19), produto a granel (art. 20), para os produtos importados (art. 8º e 21) e para a verificação das substâncias nocivas, matérias estranhas indicativas de risco à saúde humana e matérias estranhas indicativas de falhas das Boas Práticas (art. 10).
+
+Essas verificações são complementares e em consonância com orientações encaminhadas à fiscalização pelo órgão central, especificidades e condições de apresentação do produto ou à critério da fiscalização, conforme o caso.
+
+
+
+### Repasse {#repasse}
+
+O repasse é a materialização do que dispõe o art. 8º da IN nº 07/2019 para atendimento ao que dispõe o art. 7º da IN nº 69/2018, sendo aplicável ao produto no mercado interno e nas situações de importação^[Art. 8º,  IN nº 69/2018 - O produto hortícola importado que não atender aos limites de tolerância estabelecidos no art. 6º será considerado desconforme e somente poderá ser internalizado após o repasse para enquadramento nos respectivos percentuais de tolerâncias, podendo ainda ser rechaçado ou destruído.]:
+
+  * Art. 8º IN nº 07/2019 - Constatada qualquer não conformidade, a autoridade fiscalizadora determinará ao detentor a **imediata adequação** ao estabelecido nesta Instrução Normativa, registrando as atividades no respectivo Termo de Fiscalização.
+  
+  * Art. 7º IN nº 69/2018 - O lote de produto hortícola que não atender as tolerâncias estabelecidas no art. 6º desta Instrução Normativa será considerado desconforme e não poderá ser comercializado como se apresenta, **devendo ser repassado** para enquadramento nos respectivos percentuais de tolerâncias ou destruído.
+  
+Nesse sentido, o repasse nada mais é do que colocar o lote fiscalizado em condições de apresentação e conformidade estabelecidos pela IN nº 69/2018.
+
+Também se aplicam nessa situação o artigo 7º, IN nº 07/2019^[Art. 7º, IN nº 07/2019 -  Considerando a natureza, a perecibilidade e o sistema de comercialização dos produtos hortícolas, o resultado da verificação da conformidade apurada no procedimento simplificado de fiscalização poderá ser contestado, inclusive oralmente, no ato da fiscalização.
+§ 1º A contestação apresentada será apreciada pela autoridade fiscalizadora no ato da fiscalização e o resultado comunicado, oralmente, durante a execução do procedimento.
+§ 2º A ausência da contestação de que trata o caput deste artigo implica na manutenção do resultado inicialmente apurado.], para os casos de contestação.
+
+
+## Amostragem para a fiscalização dos requisitos mínimos dos produtos hortícolas
+
+A amostragem conforme os procedimentos do anexo da IN nº 7/2019 é cabível nos seguintes casos:
+
+* situações de contestação para efeito de comprovação das irregularidades mediante procedimento de amostragem;
+
+* importação de produto hortícola afeto ao § 2º, art. 10, Norma Operacional DIPOV nº 01/2019 [@NO1]^[§2º, Art. 10, Norma Operacional DIPOV nº 01/2019 - Nos casos em que o produto importado não atender aos requisitos mínimos de identidade e qualidade e possuir padrão oficial de classificação, este poderá ser encaminhado a
+procedimento de análise completa conforme inciso I do art. 4º da IN MAPA nº 49 de 2019, prevalecendo o resultado expresso no documento de classificação.]; e
+
+* a critério da fiscalização.
+
+Respeitados os princípios gerais para a amostragem de produto hortícola estabelecidos na IN nº 69/2018 (arts. 11 a 17)^[Arts. 11 a 17, IN nº 69/2018 - Art. 11 A amostragem será realizada por lote.
+Art. 12 No caso de produtos a granel, dispostos em gôndolas ou contentores, expostos à venda e destinados diretamente à alimentação humana, o lote, para efeitos de amostragem, será o quantitativo presente na gôndola ou contentor no momento da ação fiscal e a responsabilidade sobre o produto será do seu detentor.
+Art. 13 Caberá ao proprietário, possuidor, detentor ou transportador propiciar a identificação e a movimentação do produto, independentemente da forma em que se encontra, possibilitando as condições necessárias aos trabalhos de amostragem exigidos pela autoridade fiscalizadora.
+Art. 14 No caso em que se verificar contentores ou embalagens danificados, os produtos contidos nos volumes não devem ser amostrados, cabendo o repasse, o descarte ou a destruição, que ocorrerá por conta do detentor do produto.
+Art. 15. Para a amostragem do produto hortícola será retirada quantidade suficiente para o trabalho de aferição da conformidade.
+Art. 16 O produto amostrado após ser analisado, sempre que possível, será recolocado no lote ou devolvido ao detentor do produto, desde que esteja apto ao consumo humano.
+Art. 17 O responsável pela amostragem ou o órgão de fiscalização não será obrigado a recompor ou ressarcir o produto amostrado, que porventura foi danificado ou que teve sua quantidade diminuída, em função da realização da amostragem e da classificação.] [@REQ], a amostragem para a fiscalização dos requisitos mínimos estabelecida no Anexo da IN nº 07/2019 [@FiscREQ], encontra-se detalhada a seguir:
+
+### Conceitos:
+
+1. **Amostra primária:** é cada embalagem retirada aleatoriamente do lote ou, no caso de produtos a granel, a quantidade retirada aleatoriamente do lote;
+
+2. **Amostra global:** é o conjunto de amostras primárias;
+
+3. **Amostra secundária:** é a quantidade de unidades ou embalagens para venda direta retiradas aleatoriamente da amostra primária.
+
+4. **Amostra composta:** é o conjunto de amostras secundárias ou, no caso do produto a granel, a própria amostra global.
+
+5. **Amostra reduzida:** é a quantidade de produtos retirados aleatoriamente a partir da amostra composta, ou no caso de produto a granel, da amostra global, utilizada para permitir a avaliação de determinados requisitos específicos.
+
+6. **Contentor:** pode ser caixa, saco, bin ou qualquer outro recipiente que se destine a organizar, proteger, transportar ou armazenar produtos ou embalagens de produtos.
+
+7. **Embalagem:** é uma parte individualizada de um lote, cujo conteúdo pode ser constituída por unidade de produto ou embalagens para venda direta. Os contêineres rodoviários, ferroviários, navais e aéreos não são considerados embalagens.
+
+8. **Embalagem para venda direta:** é uma parte individualizada de um lote, incluindo o conteúdo, correspondendo a uma unidade de venda para o consumidor final.
+
+9. **Unidade:** é um único produto, cacho, maço, bulbo, ramo ou ramalhete.
+
+### Disposições Gerais
+
+A) A amostragem será realizada por lote de forma **aleatória**.
+
+B) No caso de produtos a granel, dispostos em gôndolas ou contentores, expostos à venda e destinados diretamente à alimentação humana, o lote, para efeitos de amostragem, será o quantitativo presente na gôndola ou contentor no momento da ação de fiscalização e a responsabilidade sobre o produto será do seu detentor.
+
+C) No caso em que se verificar contentores ou embalagens danificados, os produtos contidos nos volumes não devem ser amostrados, cabendo o repasse, a destruição ou a desnaturação, que ocorrerá por conta do detentor do produto.
+
+D) O produto amostrado após ser analisado, sempre que possível, será recolocado no lote ou devolvido ao detentor do produto hortícola, desde que esteja apto ao consumo humano.
+
+E) O responsável pela amostragem ou o órgão de fiscalização não será obrigado a recompor ou ressarcir o produto amostrado, que porventura seja danificado ou tenha sua quantidade diminuída, em função da realização da amostragem e da verificação de sua conformidade.
+
+### Procedimentos de Amostragem
+
+A) **Amostragem de produto a granel**
+
+* Para amostragem do produto a granel deve-se coletar uma quantidade mínima de amostra em unidades ou peso, conforme **Tabela** \@ref(tab:amostragem1).
+
+```{r, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE, include=FALSE}
+library(readxl)
+library(flextable)
+library(data.table)
+library(knitr)
+library(kableExtra)
+```
+
+
+```{r amostragem1, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE}
+
+amostragem1 <- read_xlsx('~/R_files/02_scripts/amostragem1.xlsx')
+
+knitr::kable(amostragem1, booktabs = TRUE,longtable = TRUE,
+  caption = 'Amostragem de produto a granel.'
+) %>% kable_styling(font_size = 10)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "3cm")%>%column_spec(2, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+
+```
+
+
+B) **Amostragem de produto embalado**
+
+Para amostragem do produto embalado deve-se retirar um número de embalagens, consideradas as amostras primárias, conforme **Tabela** \@ref(tab:amostragem2), que constituirá a amostra global.
+
+```{r amostragem2, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE}
+
+amostragem2 <- read_xlsx('~/R_files/02_scripts/amostragem2.xlsx')
+
+knitr::kable(amostragem2, booktabs = TRUE,longtable = TRUE,
+  caption = 'Amostragem de produto embalado.'
+) %>% kable_styling(font_size = 10)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "3cm")%>%column_spec(2, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+
+```
+
+
+
+
+C) **Caso o tamanho do lote seja igual ou inferior ao tamanho mínimo da amostra global a ser coletada, todo o lote deve ser inspecionado**.
+
+  A amostra secundária deve ser coletada a partir de cada amostra primária para constituir a amostra composta, conforme **Tabela** \@ref(tab:amostragem3) ou \@ref(tab:amostragem4) de acordo com a forma de apresentação.
+
+```{r, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE, include=FALSE}
+
+amostragem3 <- read_xlsx('~/R_files/02_scripts/amostragem3.xlsx')
+amostragem3[is.na(x=amostragem3)] <- ""
+
+```
+
+
+```{r amostragem3, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE}
+
+knitr::kable(amostragem3, booktabs = TRUE,longtable = FALSE,
+  caption = 'Tamanho mínimo da amostra secundária quando apresentada em
+unidades.'
+) %>% kable_styling(font_size = 10)%>%
+add_header_above(c(" ", "< 50 g" = 1, ">=50 g e < 100 g" = 1, ">= 100 g e < 200 g" = 1, ">= 200 g" = 1))%>%
+add_header_above(c(" ", "Peso médio da unidade do produto" = 4))%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "2cm")%>%column_spec(2, width = "2cm")%>%column_spec(3, width = "2cm")%>%column_spec(4, width = "2cm")%>%column_spec(4, width = "2cm") %>%
+kable_styling(latex_options = c("repeat_header"))
+
+```
+
+```{r amostragem4, echo = FALSE, tidy=FALSE, comment=FALSE, warning=FALSE}
+
+amostragem4 <- read_xlsx('~/R_files/02_scripts/amostragem4.xlsx')
+
+knitr::kable(amostragem4, booktabs = TRUE,longtable = TRUE,
+  caption = 'Tamanho mínimo da amostra secundária quando apresentada em embalagens para venda direta.'
+) %>% kable_styling(font_size = 10)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "3cm")%>%column_spec(2, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+
+```
+
+
+  
+#### Procedimentos complementares
+
+No caso de a amostra primária conter um número de unidades ou embalagens para venda direta igual ou inferior ao número mínimo definido como amostra secundária, a amostra primária deve ser completamente verificada.
+
+  A verificação da conformidade do produto será realizada na amostra composta no caso do produto embalado ou na amostra global no caso do produto a granel.
+  
+  Quando a avaliação de um requisito de qualidade comprometer a integridade do produto, a sua verificação deverá ser realizada em uma amostra reduzida obtida a partir da amostra composta ou da amostra global, conforme o caso.
+
+O tamanho da amostra reduzida será de 20 unidades; no entanto, se nestas 20 unidades pelo menos 1 unidade mostrar defeitos internos, a amostra reduzida deve ser aumentada para 100 unidades.
+
+Várias amostras reduzidas podem ser retiradas de uma amostra global ou composta, a fim de avaliar diferentes requisitos na verificação da conformidade do lote.
+
+Caso a amostra global ou composta contenha um número de unidades abaixo do número mínimo definido como amostra reduzida, unidades adicionais devem ser coletadas aleatoriamente da amostra.
+
+## Situações de irregularidades {#irr}
+
+As situações de irregularidades são aquelas identificadas conforme o rito definido pela IN nº 07/2019 para fins de aplicação da IN nº 69/2018 que não foram sanadas quando do repasse ou outro procedimento de adequação adotado para fins de cumprimento ao estabelecido no art. 8º da IN nº 07/2019^[Esses procedimentos, em geral, não são aplicáveis para o produto hortícola importado, que segue rito próprio [@NO1].].
+
+**É muito importante que a fiscalização deixe claro para o fiscalizado qual é o objetivo da norma (evitar produtos estragados, imprestáveis ao uso pelo consumidor final) e, principalmente, a facilidade de adequação à mesma (repasse).**
+
+Agindo assim irá promover um maior envolvimento e poderá fiscalizar não um produto, mas todo um setor que tenha produto hortícola, otimizando os resultados do trabalho.
+
+**Existindo situações de irregularidades ao art. 3º ou 4º da IN nº 07/2019** (Figura \@ref(fig:NC7a)), a fiscalização determinará ao detentor a imediata adequação do estabelecido à situação de conformidade, registrando as atividades no respectivo Termo de Fiscalização (art. 8º, IN nº 07/2019)^[Art. 8º, IN nº 07/2019 - Constatada qualquer não conformidade, a autoridade fiscalizadora determinará ao detentor a imediata adequação ao estabelecido nesta Instrução Normativa, registrando as atividades no respectivo Termo de Fiscalização.].
+
+Na impossibilidade de adequação pelo detentor, a autoridade fiscalizadora determinará a destinação do produto no ato da ação fiscal, sendo que, caberá ao detentor arcar com os custos e com as providências decorrentes da adequação ou da destinação do produto hortícola (§§ 1º e 2º, art. 8º, IN nº 07/2019)^[§ 1º, Art. 8º, IN nº 07/2019 - Na impossibilidade de adequação pelo detentor, a autoridade fiscalizadora determinará a destinação do produto no ato da ação fiscal; § 2º, art. 8º, IN nº 07/2019 - Caberá ao detentor arcar com os custos e com as providências decorrentes da adequação ou da destinação do produto hortícola.].
+
+Existindo a necessidade de prazo:
+
+1) para adequação do estabelecimento à situação de conformidade; ou
+
+2) para o estabelecimento ou detentor adequar o produto hortícola fiscalizado à situação de conformidade.
+
+serão adotados os procedimentos estabelecidos no art. 9º da IN nº 07/2019, a saber:
+
+* I - lavratura do Termo de aplicação da medida cautelar de suspensão da comercialização; e
+
+* II - lavratura do Termo de Intimação, concedendo um prazo para cumprimento das exigências.
+
+Somente no caso de não atendimento das exigências dispostas nos documentos de fiscalização é que deverá ser lavrado o Auto de Infração (art. 10, IN nº 07/2019)^[art. 10. IN nº 07/2019 - No caso de não atendimento das exigências dispostas nos documentos de fiscalização, deverá ser lavrado o Auto de Infração.].
+
+### Quadro sinóptico da fiscalização dos requisitos mínimos
+
+O quadro sinóptico da fiscalização dos requisitos mínimos, identifica os principais itens das normas, aplicáveis quando da fiscalização dos requisitos mínimos e que devem ser levados a efeito quando a situação de conformidade não for restabelecida de forma satisfatória (Capítulo \@ref(repasse)) e em caso de irregularidade insanável (Capítulo \@ref(irr)).
+
+```{r, include=FALSE, echo = FALSE}
+
+library(readxl)
+library(flextable)
+library(data.table)
+library(knitr)
+library(kableExtra)
+
+sinopt_Req <- read_xlsx('~/R_files/02_scripts/capitreq.xlsx')
+
+
+
+```
+
+`r knitr::kable(sinopt_Req, booktabs = TRUE,longtable = TRUE,
+  caption = 'Quadro Sinóptico Requisitos Mínimos.'
+) %>% kable_styling(font_size = 8)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "3cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+`
+
+
 
 
