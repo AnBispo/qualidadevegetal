@@ -31,7 +31,7 @@ Em síntese esses regulamentos abordam:
 
 ## Escopo
 
-Esta publicação foi elaborada para a Defesa Agropecuária e visa facilitar o entendimeto das ações de fiscalização da rastreabilidade e dos requisitos mínimos da qualidade dos produtos hortícolas, conforme as definições e procedimentos das normas específicas relacionadas com essa temática e o disposto na Lei [@Lei] e no Decreto [@Decr] da Classificação Vegetal.
+Esta publicação foi elaborada para a Defesa Agropecuária e visa facilitar o entendimento das ações de fiscalização da rastreabilidade e dos requisitos mínimos da qualidade dos produtos hortícolas, conforme as definições e procedimentos das normas específicas relacionadas com essa temática e o disposto na Lei [@Lei] e no Decreto [@Decr] da Classificação Vegetal.
 
 Os temas abordados focam exclusivamente os **produtos hortícolas**, não sendo possível extrapolar as informações aqui detalhadas para outros produtos vegetais. Desse modo, não há qualquer relação e não é recomendável adotar as informações aqui tratadas aos grãos, fibras, farinhas e demais produtos vegetais abrangidos pela legislação da Classificação Vegetal.
 
@@ -41,20 +41,22 @@ Sendo assim, o conceito de **Produto hortícola**, referenciado na presente publ
 
 A legislação aplicável pode ser acessada em Capítulo \@ref(Legis).
 
+As ideias, percepções, conclusões e recomendações desenvolvidas nesta publicação refletem exclusivamente a visão do autor e não representam de forma alguma o pensamento ou visão do Ministério da Agricultura, Pecuária e Abastecimento – MAPA.
+
 
 ## Agradecimentos e futuros desdobramentos
 
 Esta publicação não poderia ser elaborada sem o apoio e contribuição de Glauco Bertoldo, Diretor do Departamento de Inspeção de Produtos de Origem Vegetal (DIPOV/SDA/MAPA), Hugo Caruso, atual Coordenador-Geral da Qualidade Vegetal (CGQV/DIPOV) e Karina Fontes Coelho Leandro, Coordenadora de Regulamentação de Produtos de Origem Vegetal (CRPV/CGQV).
 
-Agradecemos a valiosa contribuição de Fátima Chieppe Parizzi, Coordenadora-Geral da Qualidade Vegetal à época da publicação das normas aqui explicadas e responsável pelo material que serviu de base para essa publicação - [Perguntas e Respostas Relacionadas à Fiscalização da Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/RESPOSTASDACGQVSPERGUNTASCEAGESPRELACIONADASFiscalizaodaINCN2_verso06_09_2019.pdf) e Memorando-Circular nº 9/2018/CGQV/DIPOV/MAPA/SDA/MAPA^[Para maiores informações, favor consultar o processo SEI nr 21000.026479/2018-11]. 
+Agradeço a valiosa contribuição de Fátima Chieppe Parizzi, Coordenadora-Geral da Qualidade Vegetal à época da publicação das normas aqui explicadas e responsável pelo material que serviu de base para essa publicação - [Perguntas e Respostas Relacionadas à Fiscalização da Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/RESPOSTASDACGQVSPERGUNTASCEAGESPRELACIONADASFiscalizaodaINCN2_verso06_09_2019.pdf) e Memorando-Circular nº 9/2018/CGQV/DIPOV/MAPA/SDA/MAPA^[Para maiores informações, favor consultar o processo SEI nr 21000.026479/2018-11]. 
 
-Agradecemos a Anita de Souza Dias Gutierrez, Chefe da Seção do Centro de Qualidade Hortigranjeira (SECQH/CEAGESP) à época da publicação das normas aqui detalhadas e responsável pelas elaboração das [Perguntas e Respostas Relacionadas à Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/respostas-as-perguntas-ceagesp-relacionadas-a-inc-no-2.pdf), também utilizado como apoio a esta publicação.
+Agradeço a Anita de Souza Dias Gutierrez, Chefe da Seção do Centro de Qualidade Hortigranjeira (SECQH/CEAGESP) à época da publicação das normas aqui detalhadas e responsável pelas elaboração das [Perguntas e Respostas Relacionadas à Norma da Rastreabilidade - INC Nº 2/2018 e INC Nº 1/2019](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/perguntas-e-respostas-frequentes/respostas-as-perguntas-ceagesp-relacionadas-a-inc-no-2.pdf), também utilizado como apoio a esta publicação.
 
 Agradecimentos especiais ao Gabriel Vicente Bitencourt de Almeida, Chefe da Seção do Centro de Qualidade Hortigranjeira - SECQH na Companhia de Entrepostos e Armazéns Gerais de São Paulo - CEAGESP, pela continuidade e aperfeiçoamento dado ao apoio de todo o trabalho para a melhoria da qualidade dos produtos hortícolas, no âmbito do Convênio SDA-MAPA/CEAGESP.
 
-Também agradecemos a Milza Moreira Lana, Engenheira-agrônoma, PhD em Fisiologia Pós-Colheita, pesquisadora Embrapa Hortaliças, Brasília, DF, que disponibilizou o conteúdo técnico-científico relacionado com o pós-colheita de hortaliças[@Milza]. 
+Também agradeço a Milza Moreira Lana, Engenheira-agrônoma, PhD em Fisiologia Pós-Colheita, pesquisadora Embrapa Hortaliças, Brasília, DF, que disponibilizou o conteúdo técnico-científico relacionado com o pós-colheita de hortaliças[@Milza]. 
 
-A publicação foi elaborada em R **bookdown** [@xie2015], e é um trabalho coletivo e dinâmico. Novas abordagens e situações serão incorporadas tão logo passem pela revisão e aprovação da área técnica do MAPA.
+A publicação foi elaborada em R **bookdown** [@xie2015], e é o pontapé para futuro trabalho coletivo, por se tratar de tema dinâmico. Novas abordagens e situações serão incorporadas conforme surjam. Toda informação aqui disponibilizada é de domínio público.
 
 A revisão do conteúdo foi executada com maestria por Fátima Chieppe Parizzi (Capítulos \@ref(intro) e \@ref(rastr)), Silvana Mendonça (SISV/DDA/SFA/PE) - (Capítulo \@ref(rastr)) e Milza Moreira Lana (Embrapa Hortaliças) - (Capítulo \@ref(pos)), que alinharam o conteúdo às práticas correntes e estado da arte dessa temática.
 
