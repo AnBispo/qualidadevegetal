@@ -1,5 +1,10 @@
 book_filename: "Rastreabilidade"
 delete_merged_file: true
 language:
+  label:
+    tab: 'Tabela '
+    fig: 'Figura '
   ui:
     chapter_name: "Capítulo "
+    appendix_name: "Anexo "
+    
