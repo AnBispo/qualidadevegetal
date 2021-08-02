@@ -7,13 +7,17 @@ body { text-align: justify}
 
 ## Histórico e contexto global da legislação da rastreabilidade
 
-Embora adotada pelo setor exportador de proteína animal desde o final dos anos de 1990, com o advento da crise da vaca louca ou Encefalopatia Espongiforme Bovina (EEB), e pelo setor exportador da fruticultura desde o princípio dos anos 2000 por força da legislação da União Europeia que incorporou essa temática [@178], a rastreabilidade dos produtos hortícolas para o mercado interno tornou-se obrigatória em 2018 com a publicação da Instrução Normativa Conjunta Anvisa e MAPA nº 02, de 07 de fevereiro de 2018 [@INC].
+Embora adotada pelo setor exportador de proteína animal desde o final dos anos de 1990, com o advento da crise da "vaca louca" (Encefalopatia Espongiforme Bovina - EEB), e pelo setor exportador da fruticultura desde o princípio dos anos 2000 por força da legislação da União Europeia que incorporou essa temática [@178], a adoção da rastreabilidade dos produtos hortícolas com enfoque higiênico-sanitário para o mercado interno tornou-se obrigatória em 2018 com a publicação da Instrução Normativa Conjunta Anvisa e MAPA nº 02, de 07 de fevereiro de 2018 [@INC].
 
-Em termos gerais, a instituição da rastreabilidade para os sistemas produtivos representa uma ruptura importante promovida pelos órgãos de fiscalização em nível mundial. 
+Em termos gerais, a instituição da rastreabilidade para fins de defesa sanitária e controle higiênico-sanitário aos atores dos sistemas produtivos representa uma ruptura importante promovida pelos órgãos de fiscalização em nível mundial. 
 
 Dado o aumento expressivo do comércio de produtos a partir da globalização e, por conseguinte, da maior percepção (real e intencional) em relação aos problemas sanitários transfronteiriços decorrentes desse aumento do comércio, os órgãos de fiscalização foram pressionados pela sociedade para dar respostas rápidas e ágeis frente as crises sanitárias.
 
-Mais especificamente em relação à necessidade objetiva da rastreabilidade, corrente teórica a respeito defende que todo medo associado com o consumo de alimentos implica em perda de bem-estar para as famílias, com consequente realocação de gastos para produtos substitutos. Essa transferência é ainda maior quando o fluxo de informações é precário ou inexistente. Maiores detalhes sobre esse impacto da ausência de informações confiáveis em tempo ágil pode ser consultada em [@ArtItaly] que detalha o "custo da ignorância" e do pânico, quando da crise da EEB, sobre o mercado italiano de proteína animal. 
+Mais especificamente em relação à necessidade objetiva da rastreabilidade, corrente teórica a respeito defende que todo medo associado com o consumo de alimentos implica em perda de bem-estar para as famílias, com consequente realocação de gastos para produtos substitutos.
+
+**Essa transferência é ainda maior quando o fluxo de informações é precário ou inexistente.**
+
+Maiores detalhes sobre esse impacto da ausência de informações confiáveis em tempo ágil pode ser consultada em [@ArtItaly] que detalha o "custo da ignorância" e do pânico, quando da crise da EEB, sobre o mercado italiano de proteína animal. 
 
 As perdas relacionadas com a crise da EEB, somente no Reino Unido, foram estimadas como sendo da ordem de 4 Milhões de Libras esterlinas para o conjunto dos criadores de gado bovino (até fevereiro de 1990), considerando os prejuízos não compensados, e em torno de 23,1 Milhões de Libras esterlinas para os abatedouros, considerando a expectativa de abate em 1995 [@ArtFAOMAFF]. A impossibilidade à época de promover respostas rápidas para a sociedade potencializaram os danos econômicos ao atribuir a responsabilidade direta ao consumo de proteína animal, independentemente da sua fonte ou origem.
 
@@ -26,7 +30,7 @@ O foco da norma da rastreabilidade dos produtos hortícolas é estabelecer um ca
 
 A rastreabilidade no âmbito dos produtos hortícolas é um conjunto de critérios e procedimentos a serem incorporados de forma compulsória pelo setor produtivo. Tais regras foram estruturadas de maneira a garantir que a sequência de etapas nas cadeias de distribuição e comercialização não resultem na perda das informações relevantes sobre o sistema de cultivo adotado pelo produtor.
 
-A adoção de registros sistematizados que viabilizem a manutenção do vínculo entre os elos da cadeia produtiva de hortícolas se constituiu na principal motivação para a elaboração, de forma conjunta, pelo MAPA e ANVISA da INC nº 02/2018 [@INC]. 
+A adoção de registros sistematizados que viabilizem a manutenção do vínculo entre os elos da cadeia produtiva de hortícolas se constituiu na principal motivação para a elaboração, de forma conjunta, pelo MAPA e ANVISA da INC nº 02/2018 [@INC]. Para facilitar essa adoção foi elaborado um Protocolo detalhando os aspectos fundamentais da norma para a correta adoção dos procedimentos para a rastreabilidade pelos atores do setor dos produtos hortícolas (Link: [PROTOCOLO 001 - Rastreabilidade](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/protocolo-001-rastreabilidade/view))
 
 Anteriormente à publicação da norma e na impossibilidade de identificação das fontes de contaminação dos alimentos analisados, todo o conjunto de produtos hortícolas era penalizado pela divulgação dos resultados de monitoramento do uso de agrotóxicos conduzidos pelos programas de monitoramento oficiais.
 
@@ -45,7 +49,13 @@ Esses produtos podem ser importados a qualquer tempo, acessando o mercado em con
 
 ### Abrangência  {#lista}
 
+Todos os elos da cadeia produtiva de produtos vegetais frescos, desde a origem até o consumo, devem adotar a rastreabilidade. As etapas de produção primária, armazenagem, consolidação de lotes, embalagem, transporte, distribuição, fornecimento, comercialização, exportação e importação estão envolvidos nesse processo.
+
+O cumprimento da rastreabilidade é fiscalizado pelos serviços de Vigilância Sanitária e pelo Ministério da Agricultura, Pecuária e Abastecimento (MAPA), de acordo com as competências estabelecidas nas Leis vigentes.
+
 Especificamente em relação à INC nº 02/2018 [@INC], a obrigatoriedade da adoção da rastreabilidade não é ampla e irrestrita, abrangendo tão somente os produtos hortícolas listados no Anexo III da norma (Figura \@ref(fig:listaINC)).
+
+Desse modo, não cabe a fiscalização da rastreabilidade para os produtos hortícolas não listados no Anexo III da norma, como por exemplo a Pitaia, entre outros. Da mesma forma que não cabe a aplicação da norma da rastreabilidade INC nº 02/18 [@INC] para os cereais, grãos, fibras e demais produtos vegetais.
 
 ```{r listaINC, fig.cap='Lista dos produtos cuja rastreabilidade é obrigatória (Anexo III INC nº 02/2018).', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
 knitr::include_graphics(rep('lista_INC.jpg'))
@@ -56,30 +66,28 @@ knitr::include_graphics(rep('lista_INC.jpg'))
 Esses produtos devem ser consolidados, embalados, manipulados e processados em estabelecimento devidamente registrado, conforme o regramento para fins de registro no CGC estabelecido pelo MAPA [@Registro]. Maiores informações podem ser obtidas na [página do MAPA sobre o registro](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/registro/Registro%20de%20estabelecimentos%20e%20produtos%20de%20origem%20vegetal).
 
 
-**Desse modo deve-se fiscalizar o registro do estabelecimento que trabalha com produtos hortícolas abrangidos pela regulamentação da rastreabilidade.**
+Do ponto de vista prático, para a fiscalização iniciar em boa linha importa averiguar sempre o que segue:
+
+* que somente os produtos do anexo III da norma da rastreabilidade (Figura \@ref(fig:listaINC)) estejam sendo fiscalizados com base na INC nº 02/2018.
+* que o estabelecimento que embala, beneficia ou consolida produto listado no Anexo III da INC nº 02/2018 (Figura \@ref(fig:listaINC)) esteja registrado no CGC/MAPA.
+
+**Desse modo a fiscalização deve em primeiro lugar definir um ou mais produtos, entre os abrangidos pela INC nº 02/2018 (Figura \@ref(fig:listaINC)) para a fiscalização. Na sequência deve verificar se há registro do estabelecimento que trabalha com o produto hortícola definido para fiscalização no (CGC/MAPA).**
 
 ### Obrigações
 
-Além da obrigatoriedade do registro no CGC/MAPA, as obrigações relacionadas com a regulamentação da rastreabilidade estão assentadas em dois aspectos principais, a saber:
+Além da obrigatoriedade do registro no CGC/MAPA, a verificação da rastreabilidade se dá pelas informações na nota fiscal do produto e o vínculo dessas informações com as informações obrigatórias dos documentos da rastreabilidade.
 
-#### Registros do uso de insumos agrícolas e agrotóxicos
+Esse é o aspecto principal da norma, que busca garantir o registro do seguinte, nos documentos da rastreabilidade:
 
-* Primeiramente, as unidades de consolidação, deverão manter para todos os produtos listados na **Figura** \@ref(fig:listaINC) os **registros dos insumos agrícolas**, relativos à etapa da cadeia produtiva sob sua responsabilidade, conforme disposto no art. 8º, INC nº 02/2018 [@INC].
+* todos os insumos utilizados no processo de produção e de tratamento fitossanitário dos produtos vegetais frescos ou, em substituição ou de forma complementar, a recomendação técnica correspondenteou receituário agronômico emitido por profissional competente;
+* a data de sua utilização; e
+* a identificação do lote ou lote consolidado correspondente.
 
-*Aspecto relevante para a fiscalização dessa exigência dos registros dos insumos agrícolas é a necessidade de observação do dispositivo para a adoção gradual dos procedimentos estabelecidos pelo Art. 8º INC nº 02/2018 [@INC], inseridos com as alterações dadas pela INC nº 01/2019 [@INC1]*, (Figura \@ref(fig:listaINCpr)).
-
-```{r listaINCpr, fig.cap='Produtos com prazo para adequação aos produtores primários.', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
-knitr::include_graphics(rep('lista_INCpr.jpg'))
-```
-
-* Desse modo, para os produtores primários, cabe a excessão dos produtos listados na **Figura** \@ref(fig:listaINCpr), mas estes deverão manter para todos os produtos listados na **Figura** \@ref(fig:listaINC) os **registros dos insumos agrícolas**, relativos à etapa da cadeia produtiva sob sua responsabilidade, conforme disposto no art. 8º, INC nº 02/2018 [@INC].
-
-Esse é o aspecto principal da norma, que busca garantir o registro de todos os insumos utilizados no processo de produção e de tratamento fitossanitário dos produtos vegetais frescos, data de sua utilização, recomendação técnica ou receituário agronômico emitido por profissional competente e a identificação do
-lote ou lote consolidado correspondente.
+Dois aspectos principais caracterizam os documentos da rastreabilidade e devem ser evidenciados pela fiscalização:
 
 #### Vinculação da origem ao consumo de produtos vegetais frescos
 
-* Complementarmente, a garantia da existência da rastreabilidade é a **criação de um vínculo documental** entre os agentes da cadeia de produção, distribuição e comercialização dos produtos hortícolas. Desse modo, a norma da rastreabilidade visa assegurar o registro correto das informações obrigatórias dispostas nos Anexos I e II da INC nº 02/2018 [@INC]:
+* Complementarmente às informações na nota fiscal ou documento correspondente, a garantia da existência da rastreabilidade é a **criação de um vínculo documental** pelos agentes da cadeia de produção, distribuição e comercialização dos produtos hortícolas. Desse modo, a norma da rastreabilidade visa assegurar o registro correto das informações obrigatórias dispostas nos Anexos I e II da INC nº 02/2018 [@INC]:
 
 O Anexo I (Figura \@ref(fig:INCAI)) relaciona as principais informações relacionadas com o *produto* e o *fornecedor* do produto hortícola.
 
@@ -93,6 +101,21 @@ O Anexo II (Figura \@ref(fig:INCAII)) relaciona as principais informações rela
 ```{r INCAII, fig.cap='Informações Mínimas obrigatórias do ente posterior na cadeia produtiva a serem registradas e arquivadas - Anexo II da INC nº 02/2018.', out.width='80%', fig.asp=.75, fig.align='center', echo = FALSE}
 knitr::include_graphics(rep('AnexoII_INC.jpg'))
 ```
+
+
+#### Registros do uso de insumos agrícolas e agrotóxicos
+
+* Primeiramente, o produtor primário e as unidades de consolidação, deverão manter para todos os produtos listados na **Figura** \@ref(fig:listaINC) os **registros dos insumos agrícolas**, relativos à etapa da cadeia produtiva sob sua responsabilidade, conforme disposto no art. 8º, INC nº 02/2018 [@INC], sendo que essa exigência encontra-se aplicável aos produtores primários desde 01 de agosto de 2021, não cabendo mais a exceção disposta na INC nº 01/2019 [@INC1].
+
+Do ponto de vista prático, para a fiscalização ser completa e atingir o principal objetivo da norma importa também averiguar o que segue:
+
+* que haja identificação do ente anterior e do ente posterior na documentação que acompanhar o produto fiscalizado. Essa identificação é materializada pela nota fiscal ou documento correspondente conforme o art. 5º da INC nº 02/2018.
+
+* que a identificação do ente anterior e do ente posterior esteja materializada nos registros de posse desses entes e disponíveis para a fiscalização. Essa identificação pode estar apresentada por meio físico ou eletrônico e deverá estar em conformidade com os Anexos I e II da INC nº 02/2018.
+
+* que, no caso de produtor primário ou consolidador, a comprovação da rastreabilidade também esteja materializada pelos registros dos insumos utilizados, com a data de sua utilização, mediante registros da recomendação técnica ou receituário agronômico emitido por profissional competente e a identificação do lote ou lote consolidado correspondente.
+
+**Desse modo deve-se fiscalizar as informações constantes na nota fiscal do produto fiscalizado e os documentos da rastreabilidade de posse do ente fiscalizado (ente anterior ou posterior, conforme o caso). No caso de produtor primário ou de consolidador (respeitada a exceção para o produtor primário), os registros dos insumos utilizados também devem ser fiscalizados.**
 
 
 ## Procedimentos para a fiscalização da rastreabilidade
@@ -147,21 +170,62 @@ O produto hortícola listado no anexo III da INC nº 02/2018.Atualmente são pas
 
 ### Procedimentos a serem executados para a fiscalização da rastreabilidade^[Conforme Memorando-Circular nº 9/2018/CGQV/DIPOV/MAPA/SDA/MAPA, fruto da reunião entre MAPA e ANVISA para traçar estratégias e limites à atuação dos órgãos quando da vigência da norma. Para maiores informações, favor consultar o processo SEI nr 21000.026479/2018-11]
 
-**Produtos acondicionados em caixas, sacarias ou outras embalagens:** verificar se produtos ou os seus envoltórios estão devidamente identificados com as informações mínimas obrigatórias (etiquetas, QR Code, código de barras, etc).
+**Produtos acondicionados em caixas, sacarias ou outras embalagens:** verificar se produtos ou os seus envoltórios estão devidamente identificados. 
 
-**Produtos nas unidades de consolidação urbana ou estabelecimentos beneficiadores/manipuladores:** verificação dos registros das informações mínimas obrigatórias.
+1.	Os produtos vegetais frescos devem ser identificados de forma única e inequívoca.
 
-**Produtos em packing house ou unidades de consolidação em propriedades rurais:** verificação do registro das informações sobre o produto vegetal (itens 1.1 a 1.5 do Anexo I), dos registros dos insumos agrícolas utilizados no processo de produção (tratamento fitossanitário, data de utilização, receituário agronômico e da identificação do lote ou lote consolidado correspondente).
+2.	O sistema de identificação adotado deve possibilitar o acesso, pelas autoridades competentes, aos registros com as informações obrigatórias e documentais.
+
+3.	Qualquer sistema de identificação pode ser utilizado, desde que atenda os itens 1 e 2 descritos anteriormente (exemplos - etiquetas, QR Code, código de barras, etc).
+
+
+**Produtos nas unidades de consolidação urbana ou estabelecimentos beneficiadores/manipuladores:** verificação dos registros das informações mínimas obrigatórias (itens 1 a 3, descritos anteriormente).
+
+**Produtos em packing house ou unidades de consolidação em propriedades rurais:** 
+
+4.	Verificação do registro das informações sobre o produto vegetal (itens 1.1 a 1.5 do Anexo I da INC nº 02/2018 – Figura \@ref(fig:INCAI)).
+
+5.	Verificação dos registros dos insumos agrícolas utilizados no processo de produção (tratamento fitossanitário, data de utilização, receituário agronômico).
+
+6.	Identificação do lote ou lote consolidado correspondente. o lote deve estar com as informações corretas e condizentes com os registros de rastreabilidade. Deve estar clara e de fácil verificação a relação entre os registros de rastreabilidade e o lote fiscalizado.
+
 
 * **Procedimento padrão:** Verificar se cada lote se encontra devidamente identificado e com as informações claramente grafadas, sem que deixem dúvidas quanto ao entendimento e legibilidade, de forma que não prejudiquem a rastreabilidade dos produtos vegetais fiscalizados.
 
-* **Procedimentos adicionais:**
+### Lista de Verificação para Rastreabilidade
+
+
+```{r Check1, fig.cap='Lista de Verificação para Rastreabilidade.', out.width='100%', fig.asp=.75, fig.align='center', echo = FALSE}
+knitr::include_graphics(rep('Check1.jpg'))
+``` 
+
+
+A [LISTA DE VERIFICAÇÃO PARA RASTREABILIDADE](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/roteiro-de-insp-rastreabilidade-nov-2020-v1.pdf/view), (Figura \@ref(fig:Check1)) agrupa os locais passíveis de fiscalização da rastreabilidade em três grupos distintos, conforme a etapa, descritos a seguir:
+  
+  a) Etapa de produção;
+  
+  b) Etapa de consolidação, beneficiamento, manipulação, embalamento ou “packing house”; e
+  
+  c) Etapa de distribuição ou comercialização.
+  
+Nas situações que o ente fiscalizado apresentar a comprovação de que assegura a rastreabilidade na etapa sob sua responsabilidade, deve-se percorrer o rastro documental apresentado a fim de se evidenciar a rastreabilidade no ente anterior, até a origem do produto.
+
+Essa investigação para evidenciar a rastreabilidade do produto objeto da fiscalização pode ser realizada por meio de uma inspeção junto ao ente anterior ou por meio de intimação ao ente anterior identificado durante a ação de fiscalização.
+
+
+### Procedimentos adicionais
   a) Verificar se o estabelecimento adota algum sistema público (legislação municipal ou estadual) ou privado de rastreabilidade. Em caso positivo, analisar se o sistema adotado atende aos procedimentos para aplicação da rastreabilidade definidos pela INC Anvisa/Mapa nº 2/2018; e
   b) Verificar a adoção de mecanismos de guarda ou arquivamento dos registros das informações mínimas obrigatórias pelo prazo de 18 (dezoito) meses, contados a partir da validade ou da expedição do produto.
+  c) Aplicar a [LISTA DE VERIFICAÇÃO PARA RASTREABILIDADE](https://www.gov.br/agricultura/pt-br/assuntos/inspecao/produtos-vegetal/arquivos/roteiro-de-insp-rastreabilidade-nov-2020-v1.pdf/view), (Figura \@ref(fig:Check1)), em processo de revisão para validação futura.
+
  
 ### Quadro sinóptico da fiscalização da rastreabilidade
 
-O quadro sinóptico da fiscalização da rastreabilidade, identifica os principais itens das normas, aplicáveis quando da fiscalização da rastreabilidade e que devem ser levados a efeito quando se constatar alguma irregularidade.
+O quadro sinóptico da fiscalização da rastreabilidade identifica os principais itens da INC nº 02/2018 [@INC], aplicáveis quando da fiscalização da rastreabilidade, que devem ser levados a efeito quando se constatar alguma irregularidade ao Decreto da Classificação Vegetal - Decreto nº 6.268/2007 [@Decr].
+
+Considerando a diversidade de elos da cadeia de produção, distribuição e comercialização dos produtos hortícolas e para facilitar a atuação da fiscalização, o quadro sinóptico, tal qual a lista de verificação da rastreabilidade, foi dividido em três grupos distintos, conforme a etapa, e um quarto grupo para agrupar os itens da INC nº 02/2018 aplicável para todos os entes, conforme o que segue:
+
+#### Etapa de Distribuição e Comercialização
 
 ```{r setup, include=FALSE, echo = FALSE}
 
@@ -171,18 +235,60 @@ library(data.table)
 library(knitr)
 library(kableExtra)
 
-sinopt_Rastr <- read_xlsx('~/R_files/02_scripts/capit.xlsx')
+sinopt_Rastr0 <- read_xlsx('~/R_files/02_scripts/capit.xlsx')
+sinopt_Rastr1 <- read_xlsx('~/R_files/02_scripts/capit1.xlsx')
+sinopt_Rastr2 <- read_xlsx('~/R_files/02_scripts/capit2.xlsx')
+sinopt_Rastr3 <- read_xlsx('~/R_files/02_scripts/capit3.xlsx')
 
 
 
 ```
 
-`r knitr::kable(sinopt_Rastr, booktabs = TRUE,longtable = TRUE,
-  caption = 'Quadro Sinóptico Rastreabilidade.'
+`r knitr::kable(sinopt_Rastr0, booktabs = TRUE,longtable = TRUE,
+  caption = 'Quadro Sinóptico Rastreabilidade Distribuição e Comercialização.'
 ) %>% kable_styling(font_size = 8)%>%
 kable_styling(latex_options = c("striped", "scale_down"))%>%
-column_spec(1, width = "3cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
+column_spec(1, width = "2cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+
+`
+
+\newpage
+
+
+#### Etapa de Produção ou Consolidação
+
+
+`r knitr::kable(sinopt_Rastr1, booktabs = TRUE,longtable = TRUE,
+  caption = 'Quadro Sinóptico Rastreabilidade Produção ou Consolidação.'
+) %>% kable_styling(font_size = 8)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "2cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
 kable_styling(latex_options = c("repeat_header"))
 `
 
+\newpage
 
+
+#### Etapa de Consolidação, Beneficiamento, Manipulação, Embalamento ou “Packing House”
+
+`r knitr::kable(sinopt_Rastr2, booktabs = TRUE,longtable = TRUE,
+  caption = 'Quadro Sinóptico Rastreabilidade Consolidação, Beneficiamento, Manipulação, Embalamento ou “Packing House”.'
+) %>% kable_styling(font_size = 8)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "2cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+`
+
+\newpage
+
+
+#### Aplicável em todas as etapas
+
+`r knitr::kable(sinopt_Rastr3, booktabs = TRUE,longtable = TRUE,
+  caption = 'Quadro Sinóptico Rastreabilidade - guarda de documentos e ausência de rastreabilidade em geral.'
+) %>% kable_styling(font_size = 8)%>%
+kable_styling(latex_options = c("striped", "scale_down"))%>%
+column_spec(1, width = "2cm")%>%column_spec(2, width = "3cm")%>%column_spec(3, width = "3cm")%>%column_spec(4, width = "3cm")%>%
+kable_styling(latex_options = c("repeat_header"))
+`
